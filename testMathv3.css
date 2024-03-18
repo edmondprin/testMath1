@@ -1,0 +1,59 @@
+h1, h2 {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p, button, input {
+  font-family: "Bacasime Antique", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+div {
+  margin-bottom: 30px;
+}
+
+#exo1 {
+  background-color: bisque;
+}
+
+#exo2 {
+  background-color: gainsboro;
+}
+
+#exo3 {
+  background-color: pink;
+}
+
+input {
+  width: 30%;
+}
+
+input {
+  padding: 2px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.9em;
+}
+
+button, input, p {
+  font-size: 1.5em;
+}
+
+.hide {
+  display: none;
+}
+
+.para {
+  font-size: 2.5rem;
+  font-stretch: expanded;
+  color: pink;
+}
